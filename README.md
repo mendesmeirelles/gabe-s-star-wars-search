@@ -14,6 +14,12 @@ To run the app:
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+If you run into these issues :
+
+*https://stackoverflow.com/questions/43462367/how-to-overcome-the-cors-issue-in-reactjs
+*https://github.com/angular/angular-cli/issues/6070  - Invalid Host Header
+
+
 >Gabe Meirelles Star Wars API 
 
 >Task description
